@@ -1,3 +1,2 @@
-arroz
-lenteja
-carne
+Arroz
+Jamon
