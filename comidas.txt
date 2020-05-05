@@ -1,3 +1,6 @@
 Arroz
 Lenteja
 Jamon
+Chocolate
+Salmon
+Pan
