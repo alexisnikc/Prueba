@@ -6,6 +6,3 @@ Kiwis
 Pomelos
 Bananas
 Sandwiches
-Chocolate
-Salmon
-Pan
